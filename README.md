@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidvajda
-- 🌱 I’m currently working on a datasheet automation with pyFPDF
+- 🌱 I’m currently working on a datasheet automation with pyFPDF & taking a CS50 course.
 - 📫 How to reach me, you can write me an email to davidvajda1998@gmail.com
 
 <!---
